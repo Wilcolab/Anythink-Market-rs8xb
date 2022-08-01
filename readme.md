@@ -16,4 +16,4 @@ Step 3 -> go to the root directory and run the command "docker-compose up", This
 Step 4 -> test whether backend is working properly by runing http://localhost:3000/api/ping in your browser.
 Step 5 -> similarly check for frontend by runing http://localhost:3001/register.
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine ?_
